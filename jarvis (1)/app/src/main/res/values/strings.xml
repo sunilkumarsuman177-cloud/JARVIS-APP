@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS Offline Voice Orchestrator by Prince Priyadarshi. Enables hands-free UI clicks, scrolling, and system navigation (Home, Back, Recents, Notifications).</string>
+    <string name="notification_channel_name">JARVIS Offline Ear</string>
+    <string name="notification_channel_desc">Always-on lightweight Vosk wake listener and on-demand GGUF brain status</string>
+    <string name="footer_branding">Made by Prince Priyadarshi</string>
+    <string name="developer_info">JARVIS Offline AI Orchestrator — Engineered by Prince Priyadarshi</string>
+</resources>
